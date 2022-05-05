@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string-array name="units">
+        <item>length</item>
+        <item>height</item>
+        <item>weight</item>
+    </string-array>
+
+    <string-array name="unitsForLength">
+        <item>kilometre</item>
+        <item>millimetre</item>
+        <item>centimetre</item>
+    </string-array>
+
+    <string-array name="unitsForHeight">
+        <item>centimetre</item>
+        <item>inches</item>
+        <item>feet</item>
+    </string-array>
+
+    <string-array name="unitsForWeight">
+        <item>grams</item>
+        <item>kilograms</item>
+        <item>pounds</item>
+    </string-array>
+
+    <string-array name="unitsForAddition">
+        <item>length</item>
+        <item>height</item>
+        <item>volume</item>
+    </string-array>
+
+    <string-array name="unitsForLengthAdd">
+        <item>km</item>
+        <item>mm</item>
+    </string-array>
+
+    <string-array name="unitsForHeightAdd">
+        <item>cm</item>
+        <item>inches</item>
+    </string-array>
+
+    <string-array name="unitsForVolumeAdd">
+        <item>litre</item>
+        <item>ml</item>
+    </string-array>
+
+
+
+
+
+</resources>
